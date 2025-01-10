@@ -18,6 +18,7 @@ Solo se enfoca por el momento a los modelos gguf y el uso de la gpu(cuda)
 5. Descarga mi repo las carpetas y los archivos y ponlo en la carpeta principal, si te pide reemplazar le das que si.
 >
 6. Abres el archivo del tipo de bench que quieres usar y modificas los parametros a tu gusto pero ten en cuenta del modelo llm que usas y modificas los parametros de acuerdo a ello.
+   - Te sugiero que pongas el modelo.gguf en la carpeta principal también.    
 >
 7. Inicializas.
     - py bench_type.py
