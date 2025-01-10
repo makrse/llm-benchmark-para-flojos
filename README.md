@@ -22,7 +22,7 @@ Solo se enfoca por el momento a los modelos gguf y el uso de la gpu(cuda)
 7. Inicializas.
     - py bench_type.py
 
-# Final notes:
+# Notas finales:
 Gracias al equipo de DeepEval y al Llama.cpp python por su trabajo.
 Hare subidas y mejoras de los archivos en mi tiempo libre, hacer todos los tipos de bench puede ser contraproducente en cierta manera, muchos datasets algunos estan mal formados
 y como todo bench tiene sus contras, asi que te recomiendo que escojas algunos pocos que investigues bien y te pueda servir.
